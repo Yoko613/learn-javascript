@@ -19,7 +19,7 @@
 
 * [第九章](https://github.com/Yoko613/learn-javascript/tree/master/chapter9) 外观模式
 * [第十章](https://github.com/Yoko613/learn-javascript/tree/master/chapter10) 适配器模式
-* 第十一章 代理模式
+* [第十一章](https://github.com/Yoko613/learn-javascript/tree/master/chapter11)代理模式
 * [第十二章](https://github.com/Yoko613/learn-javascript/tree/master/chapter12) 装饰者模式
 * [第十三章](https://github.com/Yoko613/learn-javascript/tree/master/chapter13) 桥接模式
 * [第十四章](https://github.com/Yoko613/learn-javascript/tree/master/chapter14) 组合模式
