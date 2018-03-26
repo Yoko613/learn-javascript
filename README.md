@@ -57,5 +57,5 @@
 * [第四十章](https://github.com/Yoko613/learn-javascript/tree/master/chapter40) MVVM模式
 
 # The MIT License (MIT)
-
+Copyright owned by liuchang, welcome to comment。
 
