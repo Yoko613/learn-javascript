@@ -54,7 +54,7 @@
 * [第三十七章](https://github.com/Yoko613/learn-javascript/tree/master/chapter37) Widget模式（其实是实现一个模板引擎）
 * [第三十八章](https://github.com/Yoko613/learn-javascript/tree/master/chapter38) MVC模式
 * [第三十九章](https://github.com/Yoko613/learn-javascript/tree/master/chapter39) MVP模式
-* 第四十章 MVVM模式
+* [第四十章](https://github.com/Yoko613/learn-javascript/tree/master/chapter40) MVVM模式
 
 # The MIT License (MIT)
 
